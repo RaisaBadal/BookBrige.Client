@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C90B4F2D-C1D9-49A1-82C6-756A287A057A}|BookBridge.Client\\BookBridge.Client.csproj|c:\\users\\raisa\\source\\repos\\bookbridge.client\\bookbridge.client\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C90B4F2D-C1D9-49A1-82C6-756A287A057A}|BookBridge.Client\\BookBridge.Client.csproj|solutionrelative:bookbridge.client\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90B4F2D-C1D9-49A1-82C6-756A287A057A}|BookBridge.Client\\BookBridge.Client.csproj|c:\\users\\raisa\\source\\repos\\bookbridge.client\\bookbridge.client\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90B4F2D-C1D9-49A1-82C6-756A287A057A}|BookBridge.Client\\BookBridge.Client.csproj|solutionrelative:bookbridge.client\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A53ECD8-07EB-4C55-9920-15C24904C044}|BookBridge.Server\\BookBridge.Server.csproj|c:\\users\\raisa\\source\\repos\\bookbridge.client\\bookbridge.server\\modelinterfaces\\ibookmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A53ECD8-07EB-4C55-9920-15C24904C044}|BookBridge.Server\\BookBridge.Server.csproj|solutionrelative:bookbridge.server\\modelinterfaces\\ibookmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A53ECD8-07EB-4C55-9920-15C24904C044}|BookBridge.Server\\BookBridge.Server.csproj|c:\\users\\raisa\\source\\repos\\bookbridge.client\\bookbridge.server\\modelservices\\bookmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A53ECD8-07EB-4C55-9920-15C24904C044}|BookBridge.Server\\BookBridge.Server.csproj|solutionrelative:bookbridge.server\\modelservices\\bookmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90B4F2D-C1D9-49A1-82C6-756A287A057A}|BookBridge.Client\\BookBridge.Client.csproj|c:\\users\\raisa\\source\\repos\\bookbridge.client\\bookbridge.client\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C90B4F2D-C1D9-49A1-82C6-756A287A057A}|BookBridge.Client\\BookBridge.Client.csproj|solutionrelative:bookbridge.client\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90B4F2D-C1D9-49A1-82C6-756A287A057A}|BookBridge.Client\\BookBridge.Client.csproj|c:\\users\\raisa\\source\\repos\\bookbridge.client\\bookbridge.client\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C90B4F2D-C1D9-49A1-82C6-756A287A057A}|BookBridge.Client\\BookBridge.Client.csproj|solutionrelative:bookbridge.client\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A53ECD8-07EB-4C55-9920-15C24904C044}|BookBridge.Server\\BookBridge.Server.csproj|c:\\users\\raisa\\source\\repos\\bookbridge.client\\bookbridge.server\\decerializerdtos\\bookdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A53ECD8-07EB-4C55-9920-15C24904C044}|BookBridge.Server\\BookBridge.Server.csproj|solutionrelative:bookbridge.server\\decerializerdtos\\bookdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90B4F2D-C1D9-49A1-82C6-756A287A057A}|BookBridge.Client\\BookBridge.Client.csproj|c:\\users\\raisa\\source\\repos\\bookbridge.client\\bookbridge.client\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C90B4F2D-C1D9-49A1-82C6-756A287A057A}|BookBridge.Client\\BookBridge.Client.csproj|solutionrelative:bookbridge.client\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A53ECD8-07EB-4C55-9920-15C24904C044}|BookBridge.Server\\BookBridge.Server.csproj|c:\\users\\raisa\\source\\repos\\bookbridge.client\\bookbridge.server\\decerializerdtos\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A53ECD8-07EB-4C55-9920-15C24904C044}|BookBridge.Server\\BookBridge.Server.csproj|solutionrelative:bookbridge.server\\decerializerdtos\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A53ECD8-07EB-4C55-9920-15C24904C044}|BookBridge.Server\\BookBridge.Server.csproj|c:\\users\\raisa\\source\\repos\\bookbridge.client\\bookbridge.server\\model\\bookdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A53ECD8-07EB-4C55-9920-15C24904C044}|BookBridge.Server\\BookBridge.Server.csproj|solutionrelative:bookbridge.server\\model\\bookdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A53ECD8-07EB-4C55-9920-15C24904C044}|BookBridge.Server\\BookBridge.Server.csproj|c:\\users\\raisa\\source\\repos\\bookbridge.client\\bookbridge.server\\decerializerdtos\\bookcategorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A53ECD8-07EB-4C55-9920-15C24904C044}|BookBridge.Server\\BookBridge.Server.csproj|solutionrelative:bookbridge.server\\decerializerdtos\\bookcategorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90B4F2D-C1D9-49A1-82C6-756A287A057A}|BookBridge.Client\\BookBridge.Client.csproj|c:\\users\\raisa\\source\\repos\\bookbridge.client\\bookbridge.client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90B4F2D-C1D9-49A1-82C6-756A287A057A}|BookBridge.Client\\BookBridge.Client.csproj|solutionrelative:bookbridge.client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A53ECD8-07EB-4C55-9920-15C24904C044}|BookBridge.Server\\BookBridge.Server.csproj|c:\\users\\raisa\\source\\repos\\bookbridge.client\\bookbridge.server\\modelinterfaces\\iauthormodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A53ECD8-07EB-4C55-9920-15C24904C044}|BookBridge.Server\\BookBridge.Server.csproj|solutionrelative:bookbridge.server\\modelinterfaces\\iauthormodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A53ECD8-07EB-4C55-9920-15C24904C044}|BookBridge.Server\\BookBridge.Server.csproj|c:\\users\\raisa\\source\\repos\\bookbridge.client\\bookbridge.server\\modelservices\\authormodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A53ECD8-07EB-4C55-9920-15C24904C044}|BookBridge.Server\\BookBridge.Server.csproj|solutionrelative:bookbridge.server\\modelservices\\authormodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A53ECD8-07EB-4C55-9920-15C24904C044}|BookBridge.Server\\BookBridge.Server.csproj|c:\\users\\raisa\\source\\repos\\bookbridge.client\\bookbridge.server\\decerializerdtos\\authordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A53ECD8-07EB-4C55-9920-15C24904C044}|BookBridge.Server\\BookBridge.Server.csproj|solutionrelative:bookbridge.server\\decerializerdtos\\authordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Client\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BookBridge.Client\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Client\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "BookBridge.Client\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T18:50:14.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Client\\Views\\Book\\Details.cshtml",
+              "RelativeDocumentMoniker": "BookBridge.Client\\Views\\Book\\Details.cshtml",
+              "ToolTip": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Client\\Views\\Book\\Details.cshtml",
+              "RelativeToolTip": "BookBridge.Client\\Views\\Book\\Details.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T17:27:02.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookModelService.cs",
+              "DocumentMoniker": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Server\\ModelServices\\BookModelService.cs",
+              "RelativeDocumentMoniker": "BookBridge.Server\\ModelServices\\BookModelService.cs",
+              "ToolTip": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Server\\ModelServices\\BookModelService.cs",
+              "RelativeToolTip": "BookBridge.Server\\ModelServices\\BookModelService.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAhwKEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:21:47.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBookModelService.cs",
+              "DocumentMoniker": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Server\\ModelInterfaces\\IBookModelService.cs",
+              "RelativeDocumentMoniker": "BookBridge.Server\\ModelInterfaces\\IBookModelService.cs",
+              "ToolTip": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Server\\ModelInterfaces\\IBookModelService.cs",
+              "RelativeToolTip": "BookBridge.Server\\ModelInterfaces\\IBookModelService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:30:28.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GeneralResponse.cs",
+              "DocumentMoniker": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Server\\DecerializerDtos\\GeneralResponse.cs",
+              "RelativeDocumentMoniker": "BookBridge.Server\\DecerializerDtos\\GeneralResponse.cs",
+              "ToolTip": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Server\\DecerializerDtos\\GeneralResponse.cs",
+              "RelativeToolTip": "BookBridge.Server\\DecerializerDtos\\GeneralResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:25:35.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Client\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookBridge.Client\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Client\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookBridge.Client\\Controllers\\BookController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:48:54.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Client\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookBridge.Client\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Client\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "BookBridge.Client\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAewDkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T15:48:27.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Client\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "BookBridge.Client\\Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Client\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "BookBridge.Client\\Views\\Book\\Create.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAewDEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T15:49:25.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookData.cs",
+              "DocumentMoniker": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Server\\DecerializerDtos\\BookData.cs",
+              "RelativeDocumentMoniker": "BookBridge.Server\\DecerializerDtos\\BookData.cs",
+              "ToolTip": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Server\\DecerializerDtos\\BookData.cs",
+              "RelativeToolTip": "BookBridge.Server\\DecerializerDtos\\BookData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:59:39.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookDetailModel.cs",
+              "DocumentMoniker": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Server\\Model\\BookDetailModel.cs",
+              "RelativeDocumentMoniker": "BookBridge.Server\\Model\\BookDetailModel.cs",
+              "ToolTip": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Server\\Model\\BookDetailModel.cs",
+              "RelativeToolTip": "BookBridge.Server\\Model\\BookDetailModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:16:33.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookCategoryModel.cs",
+              "DocumentMoniker": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Server\\DecerializerDtos\\BookCategoryModel.cs",
+              "RelativeDocumentMoniker": "BookBridge.Server\\DecerializerDtos\\BookCategoryModel.cs",
+              "ToolTip": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Server\\DecerializerDtos\\BookCategoryModel.cs",
+              "RelativeToolTip": "BookBridge.Server\\DecerializerDtos\\BookCategoryModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:19:10.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Client\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BookBridge.Client\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Client\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BookBridge.Client\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:50:08.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAuthorModelService.cs",
+              "DocumentMoniker": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Server\\ModelInterfaces\\IAuthorModelService.cs",
+              "RelativeDocumentMoniker": "BookBridge.Server\\ModelInterfaces\\IAuthorModelService.cs",
+              "ToolTip": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Server\\ModelInterfaces\\IAuthorModelService.cs",
+              "RelativeToolTip": "BookBridge.Server\\ModelInterfaces\\IAuthorModelService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:10:12.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthorData.cs",
+              "DocumentMoniker": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Server\\DecerializerDtos\\AuthorData.cs",
+              "RelativeDocumentMoniker": "BookBridge.Server\\DecerializerDtos\\AuthorData.cs",
+              "ToolTip": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Server\\DecerializerDtos\\AuthorData.cs",
+              "RelativeToolTip": "BookBridge.Server\\DecerializerDtos\\AuthorData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:17:34.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthorModelService.cs",
+              "DocumentMoniker": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Server\\ModelServices\\AuthorModelService.cs",
+              "RelativeDocumentMoniker": "BookBridge.Server\\ModelServices\\AuthorModelService.cs",
+              "ToolTip": "C:\\Users\\RAISA\\source\\repos\\BookBridge.Client\\BookBridge.Server\\ModelServices\\AuthorModelService.cs",
+              "RelativeToolTip": "BookBridge.Server\\ModelServices\\AuthorModelService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:37:08.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

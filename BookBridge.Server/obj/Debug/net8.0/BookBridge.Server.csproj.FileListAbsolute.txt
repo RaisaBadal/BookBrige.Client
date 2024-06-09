@@ -1,0 +1,12 @@
+C:\Users\RAISA\source\repos\BookBridge.Client\BookBridge.Server\bin\Debug\net8.0\BookBridge.Server.deps.json
+C:\Users\RAISA\source\repos\BookBridge.Client\BookBridge.Server\bin\Debug\net8.0\BookBridge.Server.dll
+C:\Users\RAISA\source\repos\BookBridge.Client\BookBridge.Server\bin\Debug\net8.0\BookBridge.Server.pdb
+C:\Users\RAISA\source\repos\BookBridge.Client\BookBridge.Server\obj\Debug\net8.0\BookBridge.Server.csproj.AssemblyReference.cache
+C:\Users\RAISA\source\repos\BookBridge.Client\BookBridge.Server\obj\Debug\net8.0\BookBridge.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAISA\source\repos\BookBridge.Client\BookBridge.Server\obj\Debug\net8.0\BookBridge.Server.AssemblyInfoInputs.cache
+C:\Users\RAISA\source\repos\BookBridge.Client\BookBridge.Server\obj\Debug\net8.0\BookBridge.Server.AssemblyInfo.cs
+C:\Users\RAISA\source\repos\BookBridge.Client\BookBridge.Server\obj\Debug\net8.0\BookBridge.Server.csproj.CoreCompileInputs.cache
+C:\Users\RAISA\source\repos\BookBridge.Client\BookBridge.Server\obj\Debug\net8.0\BookBridge.Server.dll
+C:\Users\RAISA\source\repos\BookBridge.Client\BookBridge.Server\obj\Debug\net8.0\refint\BookBridge.Server.dll
+C:\Users\RAISA\source\repos\BookBridge.Client\BookBridge.Server\obj\Debug\net8.0\BookBridge.Server.pdb
+C:\Users\RAISA\source\repos\BookBridge.Client\BookBridge.Server\obj\Debug\net8.0\ref\BookBridge.Server.dll
